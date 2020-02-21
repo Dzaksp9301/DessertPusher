@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\4c17b78691e10ac69cd8571ac7e63ad1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\6463d4e27905d398c14b4dc74c900a51\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\8e68285989ecda9b22e855ec45e0de12\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\14ffafa3b79d7b98761c88c6aafa51b9\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\a80170b17b1b62c6feb7545b69b70264\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\3584cc961d364d44ff3765a324196355\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\c602e3343205c023b9b31476bf9ac4a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\1114b0b92dd03da47bc33ff034dc0e56\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\e55b252112ee866fb7f069ca09bc044c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\d3bf088545b69c9dd5b7f12011b37494\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\52c57ec2126e6720e66784fe406987ce\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\1dd7786a7ae822a14aadbbe1c79ffe8d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\8833c89bb9e8962465866e0b8f25ff03\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\02ce3ec8febbbe4b0730042a775880e5\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\d890739d7e13b77c79d6fa3c44019910\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\2bb6aa672302060badd9c13daa46f463\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\d25a9f604f2b53d4343f8d1305cb24f2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\75e8bad038b786c576e012c56f829795\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\dcce04a8c1191a42157cfe5274a38954\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\d7bb8fad4558541281d3024d8910ba58\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\287fde5a2b7cd34906cd3921cd20abb3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\31c2603549065396a1da033f45edc30e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\95c65b5ae415d304e887790bb6502ae1\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:17:1-36:12
+	package
+		ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:18:5-48
+		INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
+		INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
+		ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:17:1-36:12
+		INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
+		ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:17:1-36:12
+		INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:20:5-34:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\14ffafa3b79d7b98761c88c6aafa51b9\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\14ffafa3b79d7b98761c88c6aafa51b9\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\02ce3ec8febbbe4b0730042a775880e5\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\02ce3ec8febbbe4b0730042a775880e5\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\2bb6aa672302060badd9c13daa46f463\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\2bb6aa672302060badd9c13daa46f463\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\02ce3ec8febbbe4b0730042a775880e5\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:24:9-60
+	android:icon
+		ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:22:9-49
+	android:allowBackup
+		ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.example.android.dessertpusher.MainActivity
+ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:27:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
+INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\4c17b78691e10ac69cd8571ac7e63ad1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\4c17b78691e10ac69cd8571ac7e63ad1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\6463d4e27905d398c14b4dc74c900a51\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\6463d4e27905d398c14b4dc74c900a51\AndroidManifest.xml:22:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\8e68285989ecda9b22e855ec45e0de12\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\8e68285989ecda9b22e855ec45e0de12\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\14ffafa3b79d7b98761c88c6aafa51b9\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\14ffafa3b79d7b98761c88c6aafa51b9\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\a80170b17b1b62c6feb7545b69b70264\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\a80170b17b1b62c6feb7545b69b70264\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\3584cc961d364d44ff3765a324196355\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\3584cc961d364d44ff3765a324196355\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\c602e3343205c023b9b31476bf9ac4a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\c602e3343205c023b9b31476bf9ac4a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\1114b0b92dd03da47bc33ff034dc0e56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\1114b0b92dd03da47bc33ff034dc0e56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\e55b252112ee866fb7f069ca09bc044c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\e55b252112ee866fb7f069ca09bc044c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\d3bf088545b69c9dd5b7f12011b37494\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\d3bf088545b69c9dd5b7f12011b37494\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\52c57ec2126e6720e66784fe406987ce\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\52c57ec2126e6720e66784fe406987ce\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\1dd7786a7ae822a14aadbbe1c79ffe8d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\1dd7786a7ae822a14aadbbe1c79ffe8d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\8833c89bb9e8962465866e0b8f25ff03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\8833c89bb9e8962465866e0b8f25ff03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\02ce3ec8febbbe4b0730042a775880e5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\02ce3ec8febbbe4b0730042a775880e5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\d890739d7e13b77c79d6fa3c44019910\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\d890739d7e13b77c79d6fa3c44019910\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\2bb6aa672302060badd9c13daa46f463\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\2bb6aa672302060badd9c13daa46f463\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\d25a9f604f2b53d4343f8d1305cb24f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\d25a9f604f2b53d4343f8d1305cb24f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\75e8bad038b786c576e012c56f829795\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\75e8bad038b786c576e012c56f829795\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\dcce04a8c1191a42157cfe5274a38954\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\dcce04a8c1191a42157cfe5274a38954\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\d7bb8fad4558541281d3024d8910ba58\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\d7bb8fad4558541281d3024d8910ba58\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\287fde5a2b7cd34906cd3921cd20abb3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\287fde5a2b7cd34906cd3921cd20abb3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\31c2603549065396a1da033f45edc30e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\31c2603549065396a1da033f45edc30e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\95c65b5ae415d304e887790bb6502ae1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dzaki\.gradle\caches\transforms-2\files-2.1\95c65b5ae415d304e887790bb6502ae1\AndroidManifest.xml:20:5-44
+INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
+INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
+		ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
+		INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
+		ADDED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
+		INJECTED from E:\DessertPusher_FIX\DessertPusher\app\src\main\AndroidManifest.xml
